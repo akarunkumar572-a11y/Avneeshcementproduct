@@ -1,0 +1,6 @@
+{
+  "name": "Avanish Cement Products - ERP & Wholesale Portal",
+  "description": "Professional visitor catalog and owner ERP dashboard for Avanish Cement Products. Features precast wall mount boundaries, cement gamla pots, nursery plants, desks, name displays, interactive boundary estimator, instant quotation requests, and executive owner login panel.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
